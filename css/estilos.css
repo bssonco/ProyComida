@@ -1,0 +1,22 @@
+*{
+    margin:20px;
+}
+
+body{
+    background-color: navajowhite;
+}
+h1{
+    color: red;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+img{
+    width: 550px;
+    height: 300px;
+}
+p
+{
+    font-family: 'Impact';
+    color: rgb(252, 252, 252);
+    background-color: rgb(224, 42, 112);
+}
